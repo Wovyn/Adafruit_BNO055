@@ -1,4 +1,11 @@
-# Adafruit Unified BNO055 Driver (AHRS/Orientation)  [![Build Status](https://travis-ci.com/adafruit/Adafruit_BNO055.svg?branch=master)](https://travis-ci.com/adafruit/Adafruit_BNO055)
+# Adafruit Unified BNO055 Driver (AHRS/Orientation)  #
+
+Enhancements in this version by Wovyn, L.L.C. - Scott C. Lemon
+
+Added support for SoftwareWire - https://github.com/Testato/SoftwareWire
+ - allows the ADS1x15 to be used on any pins, not just the hardware I2C pins
+
+----------
 
 This driver is for the Adafruit BNO055 Breakout (http://www.adafruit.com/products/2472),
 and is based on Adafruit's Unified Sensor Library (Adafruit_Sensor).
