@@ -3,7 +3,7 @@
 Enhancements in this version by Wovyn, L.L.C. - Scott C. Lemon
 
 Added support for SoftwareWire - https://github.com/Testato/SoftwareWire
- - allows the ADS1x15 to be used on any pins, not just the hardware I2C pins
+ - allows the BNO055 to be used on any pins, not just the hardware I2C pins
 
 ----------
 
